@@ -11,10 +11,9 @@ import static java.nio.file.StandardOpenOption.CREATE;
 import javax.swing.JFileChooser;
 
 /**
- * @author Peyton Terry
- * terrypn.mail.uc.edu
- *
+ * @author Peyton Terry terrypn@mail.uc.edu
  */
+
 public class FileInspector {
     public static void main(String[] args) {
         JFileChooser chooser = new JFileChooser();
